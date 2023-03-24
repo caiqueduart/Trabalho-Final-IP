@@ -367,7 +367,7 @@ void cadastrarAluno (int n, char *nome) {
     fclose(arq);
 }
 
-//Função de buscar aluno (não terminada)
+//Função de buscar aluno (em desenvolvimento)
 void listarAluno (char *nome) {
     int i;
     char c[8], aluno[200], ponto[2], busca[208];
