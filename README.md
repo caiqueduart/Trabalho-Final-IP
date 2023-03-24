@@ -7,6 +7,7 @@ O programa contém funções básicas de cadastro e listagem de alunos e turmas.
 
 ### - Função Menu Principal
 A função de menu principal `menuPricipal()`, chama o menu principal pra selecionar as demais funções. Como o próprio nome diz, é o principal menu do programa.
+No menu é pedido para selecionar a função que será chamada. Apenas uma função nas opções do menu  principal ficou em desenvolvimento, a função de buscar por aluno. Por eu já ter apresentado este trabalho, não pretendo continua - la.
 
 ### - Função de Cadastrar Turma
 A função para cadastrar turma `menuCadastroTurma()` serve para fazer o cadastro de uma turma. Deve-se inserir o nome da turma (caso a turma exista, ele irá sobrescrever a turma existente) e a quantidade de alunos que a turma terá.
