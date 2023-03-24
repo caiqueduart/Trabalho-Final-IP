@@ -23,5 +23,8 @@ Ela recebe como parâmetro o nome da turma.
 A função para excluir uma turma `excluirTurma()` serve para eliminar uma turma dos arquivos do programa.
 Ela recebe como parâmetro o nome da turma que será eliminada.
 
+## - Função para Buscar por Aluno
+(em desenvolvimento)
+
 ### - Função que Procede uma Função
 A função `menuEncerramento` é o menu que aparece sempre que uma função do programa chega ao fim. Nela você pode selecionar outras funções, como sair do programa ou voltar ao menu principal.
