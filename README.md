@@ -23,7 +23,7 @@ Ela recebe como parâmetro o nome da turma.
 A função para excluir uma turma `excluirTurma()` serve para eliminar uma turma dos arquivos do programa.
 Ela recebe como parâmetro o nome da turma que será eliminada.
 
-### - Função para Buscar por Aluno
+### - Função de Buscar por Aluno
 (em desenvolvimento)
 
 ### - Função que Procede uma Função
